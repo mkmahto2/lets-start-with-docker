@@ -1,7 +1,0 @@
-CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                          PORTS               NAMES
-8a79a95b9960        alpine:mukesh       "/bin/sh -c 'date +%…"   About a minute ago   Exited (0) About a minute ago                       mukeshc1q1
-cec40622fed7        f9a1e83a46dc        "/bin/sh -c 'dnf ins…"   2 weeks ago          Exited (1) 2 weeks ago                              focused_khayyam
-f688591614a5        mm:v1               "/bin/sh -c 'httpd -…"   2 weeks ago          Exited (0) 2 weeks ago                              t1
-acac823e3302        hello-world         "/hello"                 2 weeks ago          Exited (0) 2 weeks ago                              elastic_brattain
-73f8c0c73898        hello-world         "/hello"                 2 weeks ago          Exited (0) 2 weeks ago                              jovial_mcnulty
-65751ff6fd95        hello-world         "/hello"                 2 weeks ago          Exited (0) 2 weeks ago                              angry_hopper
